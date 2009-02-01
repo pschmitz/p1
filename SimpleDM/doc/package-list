@@ -1,0 +1,7 @@
+edu.iit.ir.simpledm.data
+edu.iit.ir.simpledm.exception
+edu.iit.ir.simpledm.gui
+edu.iit.ir.simpledm.model
+edu.iit.ir.simpledm.model.svm
+edu.iit.ir.simpledm.preprocess
+edu.iit.ir.simpledm.util

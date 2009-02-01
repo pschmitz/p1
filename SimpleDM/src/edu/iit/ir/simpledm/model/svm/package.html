@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<!--
+
+  @(#)package.html	03/01/09
+
+  SampleDM 
+  edu.iit.ir.simpledm.model.svm package.html
+
+  Illinois Institute of Technology			
+  CS422 Introduction To Data Mining					
+  Professor: Dr. Nazli Goharian						
+  															
+  Copyright (c) 2003									
+  @author	Mi Sun Chung							
+  @version	1.1										
+ 												
+
+-->
+</head>
+<body bgcolor="white">
+
+
+
+
+
+Provides classes for implementing Support Vector Machine. 
+It extends an abstract <code>Model</code> class.<br>
+
+<h2>Package Specification</h2>
+
+<ul>
+<li>Building a Model : Creates an independant model for each training SampleSet.
+    SVM saves the models including support vectors and its alphas.
+<li>Testing Models : Applies a testing SampleSet to every built models, and 
+    votes the majority of results.
+<li>Kernel Functions: A Polynomial and Radio Basis kernel functions were implemented.
+<li>SVM_ParamFrame: Extends ParamFrame so that a user test different parameters.
+<li>Default parameters are set. These defaults are decided after some testing with
+'adult.arff' file and 3-fold cross validation. With another data file and N-folds,
+the parameters should be adjusted by a user using SVM_ParamFrame.
+</ul>
+
+<!-- Put @see and @since tags down here. -->
+<h2>Related Documentation </h2>
+
+See the following classes.
+<ul>
+   <li>{@link edu.iit.ir.simpledm.model.Model} 
+</ul>
+
+
+</body>
+</html>

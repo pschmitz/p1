@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<!--
+
+  @(#)package.html	03/01/09
+
+  SampleDM 
+  edu.iit.ir.simpledm.preprocess package.html
+
+  Illinois Institute of Technology			
+  CS422 Introduction To Data Mining					
+  Professor: Dr. Nazli Goharian						
+  															
+  Copyright (c) 2003									
+  @author	Mi Sun Chung							
+  @version	1.1										
+ 												
+
+-->
+</head>
+<body bgcolor="white">
+Provides classes for preprocessing a SampleSet and general information of the data set.
+<br>
+
+<h2>Package Specification</h2>
+
+<ul>
+<li><code>Preprocessor : Contains preprocessing services and  boolean values of each service
+  indicating if the preprocessing is selected by a user or not.<br>
+<li><code>DataSet</code> : Contains general informaiton such as relation name and attributes statistics 
+				and label distribution.<br>
+               It is used by Preprocessor and a model. For example, minimum, maximum, average and
+			   standard deviation of each continuous attributes are used to normalize a <code>SampleSet</code>
+			   in a <code>Preprocessor.normalizeMinmax(SampleSet set)</code> function.<br><br>
+			   Note: A <code>DataSet</code> contains the general information, while a <code>SampleSet</code> contains the actual records to be preprocessed.<br>
+<li><code>DataDiscretizer</code> : Transforms from continuous type to cateogrical. A student can extend the
+				<code>DataDiscretizer</code> class to implement more sophiscated discretizer.
+<br>
+</ul>
+
+
+<!-- Put @see and @since tags down here. -->
+<h2>Related Documentation </h2>
+
+See the following classes.
+<ul>
+   <li>{@link edu.iit.ir.simpledm.model.Model}
+   <li>{@link edu.iit.ir.simpledm.data}
+</ul>
+
+
+</body>
+</html>

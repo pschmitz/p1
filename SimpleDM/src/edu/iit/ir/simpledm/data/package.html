@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<!--
+
+  @(#)package.html	03/01/09
+
+  SampleDM 
+  edu.iit.ir.simpledm.data package.html
+
+  Illinois Institute of Technology			
+  CS422 Introduction To Data Mining					
+  Professor: Dr. Nazli Goharian						
+  															
+  Copyright (c) 2003									
+  @author	Mi Sun Chung							
+  @version	1.1										
+ 												
+
+-->
+</head>
+<body bgcolor="white">
+
+Provides classes for storing a block of actual data to preprocess,
+and build and test a model with. <br>Containing a block of data not the whole records in a file,
+is because of the scalability, which means that it is assumed that the data file is too big 
+to fit in memory.<br>Becaue of this scalability, {@link Model} reads a block of data from the file
+, and stores it in memory with a SampleSet-format. Then it sends the {@link SampleSet} to 
+{@link Preprocessor} and <code>Model.buildModel(SampleSet set)</code> and 
+<code>Model.testModel(SampleSet set)</code> as a parameter.
+<p>
+<p>
+<h2>Package Specification</h2>
+<p>
+<ul>
+<li>A <code>SampleSet</code> contains a chunk of <code>Sample</code>s(records). <br>
+<li>A <code>Sample</code> contains one instance(record), that is,an array of attributes including class. <br>
+<li>An <code>AttributeValue</code> has the type of the attribute and either <code>CaegoricalAttributeValue</code> or <code>ContinuousAttributeValue</code> object.
+
+</ul><p>
+
+Here is an example to use those classes.
+<p><code>
+void exampleSampleSet(SampleSet set)<br>
+{<br>
+	Sample[] samples = set.getSamples();<br>
+	// the first attribute of the first record<br>
+	Attribute attr = samples[0].get(0); <br>
+	// if the type of the attribute is categorical<br>
+	if(attr.getType() == Sample.TYPE_CATEGORICAL) <br>
+	{	<br>
+	String label = ((CategoricalAttributeValue)attr).getValue(); <br>
+			// do something..<br>
+	}<br>
+	....<br>
+}<br>
+</code>	
+<p><p>
+
+
+
+
+<h2>Related Documentation </h2>
+<p>
+The following classes are used by the java.text classes.
+<ul>
+   <li>{@link edu.iit.ir.simpledm.model}
+   <li>{@link edu.iit.ir.simpledm.preprocessor}
+</ul>
+<!-- Put @see and @since tags down here. -->
+
+</body>
+</html>

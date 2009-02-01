@@ -1,0 +1,297 @@
+The number of lines of the header : 19
+
+The file, data/adult_test.arff , is successfully opened.
+Total number of instances: 3.0
+Total number of attributes: 15
+
+  <   Discretizer information   >
+< age >
+ middle :   25.0  ~  36.0 
+ high :   36.0  ~  38.0 
+
+< fnlwgt >
+ low :   89814.0  ~  94206.23 
+ middle :   94206.23  ~  336951.0 
+
+< education-num >
+ low :   7.0  ~  7.43 
+ middle :   7.43  ~  11.23 
+ high :   11.23  ~  12.0 
+
+< capital-gain >
+ middle :   0.0  ~  0.0 
+ high :   0.0  ~  0.0 
+ higher :   0.0  ~  0.0 
+
+< capital-loss >
+ middle :   0.0  ~  0.0 
+ high :   0.0  ~  0.0 
+ higher :   0.0  ~  0.0 
+
+< hours-per-week >
+ middle :   40.0  ~  48.6 
+ high :   48.6  ~  50.0 
+
+
+
+    <   Data Set Information    >
+
+Relation Name : adult
+The number of instances : 3.0
+The number of attributes : 15
+
+No. 0
+Attribute Name : age
+Type : Continuous
+Minimum value : 25.0
+Maximum value : 38.0
+Average value : 30.333333333333332
+Standard deviation value : 5.666666666666667
+
+
+No. 1
+Attribute Name : workclass
+Type : Categorical 
+--------------------
+Name       Count
+--------------------
+Private    2
+Local-gov    1
+
+
+No. 2
+Attribute Name : fnlwgt
+Type : Continuous
+Minimum value : 89814.0
+Maximum value : 336951.0
+Average value : 217855.66666666666
+Standard deviation value : 123649.43757364115
+
+
+No. 3
+Attribute Name : education
+Type : Categorical 
+--------------------
+Name       Count
+--------------------
+11th    1
+HS-grad    1
+Assoc-acdm    1
+
+
+No. 4
+Attribute Name : education-num
+Type : Continuous
+Minimum value : 7.0
+Maximum value : 12.0
+Average value : 9.333333333333334
+Standard deviation value : 1.9002923751652296
+
+
+No. 5
+Attribute Name : marital-status
+Type : Categorical 
+--------------------
+Name       Count
+--------------------
+Never-married    1
+Married-civ-spouse    2
+
+
+No. 6
+Attribute Name : occupation
+Type : Categorical 
+--------------------
+Name       Count
+--------------------
+Machine-op-inspct    1
+Farming-fishing    1
+Protective-serv    1
+
+
+No. 7
+Attribute Name : relationship
+Type : Categorical 
+--------------------
+Name       Count
+--------------------
+Own-child    1
+Husband    2
+
+
+No. 8
+Attribute Name : race
+Type : Categorical 
+--------------------
+Name       Count
+--------------------
+Black    1
+White    2
+
+
+No. 9
+Attribute Name : sex
+Type : Categorical 
+--------------------
+Name       Count
+--------------------
+Male    3
+
+
+No. 10
+Attribute Name : capital-gain
+Type : Continuous
+Minimum value : 0.0
+Maximum value : 0.0
+Average value : 0.0
+Standard deviation value : 0.0
+
+
+No. 11
+Attribute Name : capital-loss
+Type : Continuous
+Minimum value : 0.0
+Maximum value : 0.0
+Average value : 0.0
+Standard deviation value : 0.0
+
+
+No. 12
+Attribute Name : hours-per-week
+Type : Continuous
+Minimum value : 40.0
+Maximum value : 50.0
+Average value : 43.333333333333336
+Standard deviation value : 5.270462766947298
+
+
+No. 13
+Attribute Name : native-country
+Type : Categorical 
+--------------------
+Name       Count
+--------------------
+United-States    3
+
+
+No. 14
+Attribute Name : income
+Type : Categorical 
+--------------------
+Name       Count
+--------------------
+<=50K.    2
+>50K.    1
+
+
+
+< Selected options of preprocessing >
+Removing Over Fitting: false
+Replacing missing values: false
+Transformation of attribute type: true
+Continuous to categorical transformation selected.
+Normalization: true
+Min_Max selected.
+
+
+
+Support Vector Machine model selected.
+Starting building the selected model.
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+Fold Number  0 started.
+   Fold No. 0
+Builing a model....
+Transformation from continuous to categorical on the given SampleSet is completed.
+Min_Max normalization on the given SampleSet is completed.
+Transformation from categorical to continuous on the given SampleSet is completed.
+b:  0.7354371718873838
+minZi:  0.7451773586677178
+maxZi:  0.7256969851070496
+Number of support vectors2
+Testing a model....
+Transformation from continuous to categorical on the given SampleSet is completed.
+Min_Max normalization on the given SampleSet is completed.
+Testing Size of Buffer: 1
+Transformation from categorical to continuous on the given SampleSet is completed.
+Displaying the results
+
+	Total number of training records :  2
+	Total number of testing records  :  1
+	Execution Time(sec) :  0.004
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+Fold Number  1 started.
+   Fold No. 1
+Builing a model....
+Transformation from continuous to categorical on the given SampleSet is completed.
+Min_Max normalization on the given SampleSet is completed.
+Transformation from categorical to continuous on the given SampleSet is completed.
+b:  0.9557734982561584
+minZi:  0.9560630663765926
+maxZi:  0.9554839301357243
+Number of support vectors2
+Testing a model....
+Transformation from continuous to categorical on the given SampleSet is completed.
+Min_Max normalization on the given SampleSet is completed.
+Testing Size of Buffer: 1
+Transformation from categorical to continuous on the given SampleSet is completed.
+Displaying the results
+
+	Total number of training records :  2
+	Total number of testing records  :  1
+	Execution Time(sec) :  0.001
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+Fold Number  2 started.
+   Fold No. 2
+Builing a model....
+Transformation from continuous to categorical on the given SampleSet is completed.
+Min_Max normalization on the given SampleSet is completed.
+Transformation from categorical to continuous on the given SampleSet is completed.
+b:  0.6423966815729261
+minZi:  0.0
+maxZi:  1.2847933631458521
+Number of support vectors2
+Testing a model....
+Transformation from continuous to categorical on the given SampleSet is completed.
+Min_Max normalization on the given SampleSet is completed.
+Testing Size of Buffer: 1
+Transformation from categorical to continuous on the given SampleSet is completed.
+Displaying the results
+
+	Total number of training records :  2
+	Total number of testing records  :  1
+	Execution Time(sec) :  0.001
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		0.0	�
+	>50K.		1.0	1.0000
+
+		Total Accuracy : 1.0000
+
+Continue(c) ? or Exit (e or enter)? : 

@@ -1,0 +1,21 @@
+\documentclass{article}
+
+\title{CS 422 Project 1}
+\author{Pete Schmitz}
+
+
+\begin{document}
+
+\maketitle
+
+\newpage
+
+\tableofcontents
+\newpage
+
+
+\section{Processing Logic}
+    \subsection{Current}
+
+
+\end{document}

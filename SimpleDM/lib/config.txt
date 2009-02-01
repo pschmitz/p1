@@ -1,0 +1,8 @@
+data/adult_test.arff
+Support Vector Machine
+3
+min_max
+continuous to categorical
+
+
+

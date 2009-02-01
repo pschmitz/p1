@@ -1,0 +1,22 @@
+@RELATION adult
+
+@ATTRIBUTE age		REAL
+@ATTRIBUTE workclass	{Local-gov,Private,Self-emp-not-inc,Federal-gov,State-gov,Self-emp-inc,Never-worked,Without-pay}
+@ATTRIBUTE fnlwgt	REAL
+@ATTRIBUTE education	{11th,HS-grad,Assoc-acdm,Some-college,10th,Prof-school,7th-8th,Bachelors,Masters,Doctorate,5th-6th,Assoc-voc,9th,12th,1st-4th,Preschool}
+@ATTRIBUTE education-num REAL	
+@ATTRIBUTE marital-status {Never-married,Married-civ-spouse,Widowed,Divorced,Separated,Married-spouse-absent,Married-AF-spouse}
+@ATTRIBUTE occupation {Machine-op-inspct,Farming-fishing,Protective-serv,?,Other-service,Prof-specialty,Craft-repair,Adm-clerical,Exec-managerial,Tech-support,Sales,Priv-house-serv,Transport-moving,Handlers-cleaners,Armed-Forces}
+@ATTRIBUTE relationship {Own-child,Husband,Not-in-family,Unmarried,Wife,Other-relative}
+@ATTRIBUTE race {Black,White,Asian-Pac-Islander,Other,Amer-Indian-Eskimo}
+@ATTRIBUTE sex {Male,Female}
+@ATTRIBUTE capital-gain REAL
+@ATTRIBUTE capital-loss REAL
+@ATTRIBUTE hours-per-week REAL
+@ATTRIBUTE native-country {United-States,?,Peru,Guatemala,Mexico,Dominican-Republic,Ireland,Germany,Philippines,Thailand,Haiti,El-Salvador,Puerto-Rico,Vietnam,South,Columbia,Japan,India,Cambodia,Poland,Laos,England,Cuba,Taiwan,Italy,Canada,Portugal,China,Nicaragua,Honduras,Iran,Scotland,Jamaica,Ecuador,Yugoslavia,Hungary,Hong,Greece,Trinadad&Tobago,Outlying-US(Guam-USVI-etc),France}
+@ATTRIBUTE income {<=50K.,>50K.}
+
+@DATA
+25, Private, 226802, 11th, 7, Never-married, Machine-op-inspct, Own-child, Black, Male, 0, 0, 40, United-States, <=50K.
+38, Private, 89814, HS-grad, 9, Married-civ-spouse, Farming-fishing, Husband, White, Male, 0, 0, 50, United-States, <=50K.
+28, Local-gov, 336951, Assoc-acdm, 12, Married-civ-spouse, Protective-serv, Husband, White, Male, 0, 0, 40, United-States, >50K.

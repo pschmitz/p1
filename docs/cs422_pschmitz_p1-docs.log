@@ -1,0 +1,59 @@
+This is pdfTeX, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.1.14)  31 JAN 2009 19:06
+entering extended mode
+**\input cs422_pschmitz_p1-docs.tex
+(./cs422_pschmitz_p1-docs.tex (/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+No file cs422_pschmitz_p1-docs.aux.
+\openout1 = `cs422_pschmitz_p1-docs.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 9.
+[1
+
+]
+No file cs422_pschmitz_p1-docs.toc.
+\tf@toc=\write3
+\openout3 = `cs422_pschmitz_p1-docs.toc'.
+
+[2] [3] (./cs422_pschmitz_p1-docs.aux) ) 
+Here is how much of TeX's memory you used:
+ 228 strings out of 94087
+ 2494 string characters out of 1167723
+ 49781 words of memory out of 3500000
+ 3587 multiletter control sequences out of 10000+50000
+ 7895 words of font info for 28 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 23i,6n,17p,145b,187s stack positions out of 5000i,500n,6000p,200000b,5000s
+
+Output written on cs422_pschmitz_p1-docs.dvi (3 pages, 1608 bytes).

@@ -1,0 +1,2 @@
+javac  -d . src/edu/iit/ir/simpledm/app_mng/*.java src/edu/iit/ir/simpledm/model/*.java src/edu/iit/ir/simpledm/model/svm/*.java src/edu/iit/ir/simpledm/preprocess/*.java src/edu/iit/ir/simpledm/util/*.java src/edu/iit/ir/simpledm/data/*.java src/edu/iit/ir/simpledm/exception/*.java
+pause

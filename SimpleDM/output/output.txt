@@ -1,0 +1,856 @@
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.15 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.5000
+
+		Total Accuracy : .7500
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.0000
+
+		Total Accuracy : .5000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		0.0	?
+	yes		4.0	.0000
+
+		Total Accuracy : .0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.15 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.5000
+
+		Total Accuracy : .7500
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.0000
+
+		Total Accuracy : .5000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		0.0	?
+	yes		4.0	.0000
+
+		Total Accuracy : .0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.15 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.5000
+
+		Total Accuracy : .7500
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.0000
+
+		Total Accuracy : .5000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		0.0	?
+	yes		4.0	.0000
+
+		Total Accuracy : .0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.15 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.5000
+
+		Total Accuracy : .7500
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.0000
+
+		Total Accuracy : .5000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		0.0	?
+	yes		4.0	.0000
+
+		Total Accuracy : .0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.15 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.5000
+
+		Total Accuracy : .7500
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.0000
+
+		Total Accuracy : .5000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		0.0	?
+	yes		4.0	.0000
+
+		Total Accuracy : .0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.15 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.0000
+
+		Total Accuracy : .5000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.0000
+
+		Total Accuracy : .5000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		0.0	?
+	yes		4.0	.0000
+
+		Total Accuracy : .0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.15 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.0000
+
+		Total Accuracy : .5000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.0000
+
+		Total Accuracy : .5000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		0.0	?
+	yes		4.0	.0000
+
+		Total Accuracy : .0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.15 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.0000
+
+		Total Accuracy : .5000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		2.0	1.0000
+	yes		2.0	.0000
+
+		Total Accuracy : .5000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	no		0.0	?
+	yes		4.0	.0000
+
+		Total Accuracy : .0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.15 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4144.0	.9332
+	>50K.		1283.0	.2502
+
+		Total Accuracy : .7717
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4152.0	1.0000
+	>50K.		1275.0	.0000
+
+		Total Accuracy : .7651
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.16 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4144.0	.9332
+	>50K.		1283.0	.2502
+
+		Total Accuracy : .7717
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4152.0	1.0000
+	>50K.		1275.0	.0000
+
+		Total Accuracy : .7651
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.14 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4144.0	.9332
+	>50K.		1283.0	.2502
+
+		Total Accuracy : .7717
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4152.0	1.0000
+	>50K.		1275.0	.0000
+
+		Total Accuracy : .7651
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.13 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4144.0	.9332
+	>50K.		1283.0	.2502
+
+		Total Accuracy : .7717
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.13 
+ ****************************************************************
+Note. Only the data set, which has two classes, can be applied in this SVM model.
+Note. Very small number of records can build an incorrect model.
+Note. Normalization should be processed for SVM.
+Note. 'Avoiding over-fit' preprocessing can reduce the execution time.
+Note. Defualt parameters were set for the 'adult.arff' file.
+
+
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 0.1 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4144.0	.9332
+	>50K.		1283.0	.2502
+
+		Total Accuracy : .7717
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 3.0 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4144.0	.3263
+	>50K.		1283.0	.8963
+
+		Total Accuracy : .4610
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4152.0	.3690
+	>50K.		1275.0	.8902
+
+		Total Accuracy : .4914
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4139.0	.2675
+	>50K.		1288.0	.9418
+
+		Total Accuracy : .4275
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 2.0 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4144.0	.5837
+	>50K.		1283.0	.7623
+
+		Total Accuracy : .6259
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4152.0	.5328
+	>50K.		1275.0	.8204
+
+		Total Accuracy : .6003
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4139.0	.4960
+	>50K.		1288.0	.8502
+
+		Total Accuracy : .5801
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4144.0	.7799
+	>50K.		1283.0	.5838
+
+		Total Accuracy : .7336
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4152.0	.8764
+	>50K.		1275.0	.4424
+
+		Total Accuracy : .7745
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4139.0	.6178
+	>50K.		1288.0	.7966
+
+		Total Accuracy : .6602
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4144.0	.7799
+	>50K.		1283.0	.5838
+
+		Total Accuracy : .7336
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4152.0	.8764
+	>50K.		1275.0	.4424
+
+		Total Accuracy : .7745
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		4139.0	.6178
+	>50K.		1288.0	.7966
+
+		Total Accuracy : .6602
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	?
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	?
+
+		Total Accuracy : 1.0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	?
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	?
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		0.0	?
+	>50K.		1.0	1.0000
+
+		Total Accuracy : 1.0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	?
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	?
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		0.0	?
+	>50K.		1.0	1.0000
+
+		Total Accuracy : 1.0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	?
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	?
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		0.0	?
+	>50K.		1.0	1.0000
+
+		Total Accuracy : 1.0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		0.0	�
+	>50K.		1.0	1.0000
+
+		Total Accuracy : 1.0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		0.0	�
+	>50K.		1.0	1.0000
+
+		Total Accuracy : 1.0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		0.0	�
+	>50K.		1.0	1.0000
+
+		Total Accuracy : 1.0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		0.0	�
+	>50K.		1.0	1.0000
+
+		Total Accuracy : 1.0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		0.0	�
+	>50K.		1.0	1.0000
+
+		Total Accuracy : 1.0000
+
+ /**************************************************************
+                   Support Vector Machine				       
+  															
+       Learning rate: 0.3
+       Radio Basis function  Sigma = 1.6 
+ ****************************************************************
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		1.0	1.0000
+	>50K.		0.0	�
+
+		Total Accuracy : 1.0000
+
+
+	Class Name	Count	Accuracy
+	-------------------------------------------------------
+	<=50K.		0.0	�
+	>50K.		1.0	1.0000
+
+		Total Accuracy : 1.0000
